@@ -1,0 +1,7 @@
+.gradle
+.idea
+.vscode
+local.properties
+tmp
+build
+gy-demo/app/libs/
