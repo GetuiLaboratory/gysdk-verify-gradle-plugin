@@ -40,7 +40,7 @@ apply plugin: "getui.gy-check"
 
 ```groovy
 plugins {
-  id "getui.gy-check" version "1.0.4"
+  id "getui.gy-check" version "latest"
 }
 
 ```
